@@ -1,4 +1,4 @@
-# Title: Twitch Survey Email Template
+# Title: Asana Survey Email Template
 * Click [here](https://mercado-joshua.github.io/asana-email-template/) to view the project.
 * Checkout `index.html` for source code.
 
